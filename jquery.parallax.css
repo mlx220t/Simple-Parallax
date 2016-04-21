@@ -1,0 +1,22 @@
+#parallaxbase {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 0;
+}
+.parallax {
+	position: fixed;
+	
+	padding: 15px;
+	font-size: 14px;
+	z-index: 10;
+	width: 400px;
+	top: 100px;
+	left: 100px;
+	background: lightblue;
+	color: white;
+	border-radius: 25px;
+    box-shadow: 2px 2px 9px rgba(0,0,0,0.3);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.9);
+    opacity: 1;
+}
