@@ -1,6 +1,6 @@
 # Simple Parallax for the web developers.
 
-You can see the Demo here: http://web.kupibo.com.ua/_demo/js/parallax
+You can see the Demo here: http://kupibo.com.ua/web/_demo/js/parallax
 
 #### You should add:
 
